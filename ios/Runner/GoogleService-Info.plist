@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>908160509388-udbm9h05p65o0qn2q6dud957t5vk2vhg.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.908160509388-udbm9h05p65o0qn2q6dud957t5vk2vhg</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBTV2r0yIThyebRY4_9-howtG7RrIgr_4g</string>
+	<key>GCM_SENDER_ID</key>
+	<string>908160509388</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.fasum</string>
+	<key>PROJECT_ID</key>
+	<string>fasum-app-b0173</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fasum-app-b0173.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:908160509388:ios:a1a66fde1abdb60563e969</string>
+	<key>DATABASE_URL</key>
+	<string>https://fasum-app-b0173-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

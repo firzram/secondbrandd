@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "908160509388",
+    "firebase_url": "https://fasum-app-b0173-default-rtdb.firebaseio.com",
+    "project_id": "fasum-app-b0173",
+    "storage_bucket": "fasum-app-b0173.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908160509388:android:2f332c9c00861bb963e969",
+        "android_client_info": {
+          "package_name": "com.example.fasum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "908160509388-jdq9rr5488vvifaf12rd5p8bi9j9pogo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEBHeqY3A2KXbe5mu_lKICi5R1AjMqVpY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "908160509388-jdq9rr5488vvifaf12rd5p8bi9j9pogo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "908160509388-9d1oqo5ceqglmrg9qrho6ev74co30nak.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fasum.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
